@@ -23,7 +23,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/AmitC04/EMPLOYMENT-BURNOUT-.git
+git clone https://github.com/kishore459/EMPLOYMENT-BURNOUT.git
 
 Install the required packages: requirement.txt
 
@@ -70,7 +70,7 @@ This project is part of the IBM Machine Learning curriculum. Special thanks to t
 
 ## <span style="color:blue; font-weight:bold;">**📝 Feedback and Support**</span>  
 If you have any feedback, suggestions, or questions regarding the project, please create an issue in the repository or contact me at:  
-[amitc220404@gmail.com](mailto:amitc220404@gmail.com)   
+[jangakishore06@gmail.com](mailto:jangakishore06@gmail.com)   
 
 
 ## <span style="color:blue; font-weight:bold;">**⭐ Show Your Support**</span>  
